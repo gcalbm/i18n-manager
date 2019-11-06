@@ -125,7 +125,7 @@
     "react": "^16.8.6",
     "react-dom": "npm:@hot-loader/react-dom",
     "react-hanger": "^2.0.0",
-    "react-hot-loader": "^4.11.1",
+    "react-hot-loader": "4.12.15",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1",
     "redux": "^4.0.1",
