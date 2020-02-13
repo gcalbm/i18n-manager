@@ -52,7 +52,7 @@
     "babel-loader": "8.0.6",
     "babel-plugin-named-asset-import": "^0.3.2",
     "babel-preset-react-app": "^9.0.0",
-    "browserslist": "^4.8.2",
+    "browserslist": "^4.8.7",
     "camelcase": "^5.2.0",
     "caniuse-lite": "^1.0.30001015",
     "case-sensitive-paths-webpack-plugin": "2.2.0",
